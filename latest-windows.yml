@@ -1,8 +1,8 @@
-version: 0.2.0
+version: 0.3.0
 files:
   - url: Aincrad-Launcher-Installer.exe
-    sha512: 7VwacaZIh3bnNil94IsDCEZK8MzmxAJaulic70g3fp1EJQ+Mao3WvX3za/gY+UcDUtCQwL4mhjlxfC1Ka/7E8w==
-    size: 183285596
+    sha512: zEFyTBB0uiE10ZXpgGEcAbUyjQ6zM4yyG5nejzlMZDQa9g89sppP5sIBjx3OCmIIDdUntSfTA5NIPltQyjobaw==
+    size: 183406727
 path: Aincrad-Launcher-Installer.exe
-sha512: 7VwacaZIh3bnNil94IsDCEZK8MzmxAJaulic70g3fp1EJQ+Mao3WvX3za/gY+UcDUtCQwL4mhjlxfC1Ka/7E8w==
-releaseDate: '2025-08-17T00:02:13.763Z'
+sha512: zEFyTBB0uiE10ZXpgGEcAbUyjQ6zM4yyG5nejzlMZDQa9g89sppP5sIBjx3OCmIIDdUntSfTA5NIPltQyjobaw==
+releaseDate: '2025-08-17T02:37:07.780Z'
