@@ -1,12 +1,12 @@
-version: 0.3.2
+version: 0.3.3
 files:
   - url: Aincrad-Launcher.AppImage
-    sha512: joTSKMjw3BJrVR2HdnCwYtjYZ5dyyrmTWTECa9PLJpVdMztTzd6XF26EVcfB65tUO6TtPt8Si666CfhHyXuVaw==
-    size: 179786187
-    blockMapSize: 184799
+    sha512: 0Fp0mCdINmUdQ2PmEAk1+t2IB6tB236OSCTEuYn79PpYwDmcjI5MqHfMOjeoelzRD8RNtmTDKTbm1hzg2jiq0A==
+    size: 179787299
+    blockMapSize: 185911
   - url: Aincrad-Launcher.deb
-    sha512: b0p8kw1PF3wXiZUkYdGPzoiAS1l8tq7tKnXjUEiC/cSmyd2wMPif01yZRw781daL42+lmxDEWp/L7cB067t2Dg==
-    size: 153791370
+    sha512: a+OTVrrb4wcmd/4gPz0085AqFOXN64A1YZIm4noYYMPjHzoJyWyLEcMm4U0FfxfQpa/im05VMqLRt0z7c3D2tA==
+    size: 153809686
 path: Aincrad-Launcher.AppImage
-sha512: joTSKMjw3BJrVR2HdnCwYtjYZ5dyyrmTWTECa9PLJpVdMztTzd6XF26EVcfB65tUO6TtPt8Si666CfhHyXuVaw==
-releaseDate: '2025-08-17T03:57:09.487Z'
+sha512: 0Fp0mCdINmUdQ2PmEAk1+t2IB6tB236OSCTEuYn79PpYwDmcjI5MqHfMOjeoelzRD8RNtmTDKTbm1hzg2jiq0A==
+releaseDate: '2025-08-17T06:02:52.463Z'
