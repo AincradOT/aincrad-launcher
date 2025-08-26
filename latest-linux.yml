@@ -1,12 +1,12 @@
-version: 0.4.4
+version: 0.4.5
 files:
   - url: Aincrad.AppImage
-    sha512: t0N56+aXogMTEK1NpgaYsrPwOfIUu6hcIOWRRf17h1RrIy5W+G+MhTf0dO2Ye3N6bOJf7Dr1nfEXyMjV3MhaEQ==
-    size: 179728002
-    blockMapSize: 183958
+    sha512: +Aq8HW6bOHbt43sRga48+ktREIfrM40tWf1/R2Q+MQZXjKYr/JyNMxfWDxoNMuBk1JH8fDve80RfrHZXDOBRKw==
+    size: 179728821
+    blockMapSize: 184777
   - url: Aincrad.deb
-    sha512: wmRC7rTzF685UhPbMN6bwhDJx79s5cSHFKZIrY3nYmmXHqJFutOd2zSed0Cyv+AC2xu7YvIsXhC2MCcg2A22Lw==
-    size: 153749722
+    sha512: Js33J6pqp8U7CLVfjucU1V6fOassP0JkPA1uU4U7uv1p2sBbqYjaGv1M0XBc3czAAjP6KNvL1en3ETb5hfPiaw==
+    size: 152989466
 path: Aincrad.AppImage
-sha512: t0N56+aXogMTEK1NpgaYsrPwOfIUu6hcIOWRRf17h1RrIy5W+G+MhTf0dO2Ye3N6bOJf7Dr1nfEXyMjV3MhaEQ==
-releaseDate: '2025-08-18T13:07:41.367Z'
+sha512: +Aq8HW6bOHbt43sRga48+ktREIfrM40tWf1/R2Q+MQZXjKYr/JyNMxfWDxoNMuBk1JH8fDve80RfrHZXDOBRKw==
+releaseDate: '2025-08-26T00:49:12.102Z'

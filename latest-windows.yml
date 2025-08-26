@@ -1,8 +1,8 @@
-version: 0.4.4
+version: 0.4.5
 files:
   - url: Aincrad-Installer.exe
-    sha512: RwhaFT74iBxYwXYrUwv9h0g/e6cV7Hjn+6dtvcdNRb0N3ZkXuNC9rBDktQQCCOHk4v0FrTmL87ANbjrnSa5Vzg==
-    size: 183182148
+    sha512: pIkk9UDQm8vFo+JZI90FySSNVyEdrtOPlBHxSiuoU1Hj9eUBNYdT0P/ESjjcDSWTGr5v2dw17Nfi6j3CoIwy+A==
+    size: 181531013
 path: Aincrad-Installer.exe
-sha512: RwhaFT74iBxYwXYrUwv9h0g/e6cV7Hjn+6dtvcdNRb0N3ZkXuNC9rBDktQQCCOHk4v0FrTmL87ANbjrnSa5Vzg==
-releaseDate: '2025-08-18T13:06:37.303Z'
+sha512: pIkk9UDQm8vFo+JZI90FySSNVyEdrtOPlBHxSiuoU1Hj9eUBNYdT0P/ESjjcDSWTGr5v2dw17Nfi6j3CoIwy+A==
+releaseDate: '2025-08-26T00:44:52.172Z'
